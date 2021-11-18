@@ -1,1 +1,4 @@
 testando uma atualização de arquivo.
+
+Nova funcionalidade A implementada
+
