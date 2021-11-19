@@ -16,3 +16,8 @@ Melhoria na _**função A e B**_
 * PHP
 * MySQL
 *
+### Funcionalidade a desenvolver
+1. Área de Membros
+2. Integração com outro pagamentos
+3. Bonus para primeira compra
+4. Compartilhamento em rede sociais
