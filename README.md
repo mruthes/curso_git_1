@@ -34,3 +34,7 @@ void exit(unsigned int code)
     return(code)
 }
 ```
+
+### Lista de tarefas
+-[ ] CSS 
+-[x] Criar função main
