@@ -36,5 +36,5 @@ void exit(unsigned int code)
 ```
 
 ### Lista de tarefas
--[ ] CSS 
--[x] Criar função main
+- [ ] CSS 
+- [ x ] Criar função main
