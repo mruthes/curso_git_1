@@ -18,9 +18,9 @@ Melhoria na _**função A e B**_
 *
 ### Funcionalidade a desenvolver
 1. Área de Membros
-  1. Login
-  2. Desconto
-  3. CSS
+    1. Login
+    2. Desconto
+    3. CSS
 3. Integração com outro pagamentos
 4. Bonus para primeira compra
 5. Compartilhamento em rede sociais
