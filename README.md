@@ -28,4 +28,4 @@ Melhoria na _**função A e B**_
 
 
 
-![Python](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpython.org.br%2Ftheme%2Fimg%2Fsite-logo.svg&imgrefurl=https%3A%2F%2Fpython.org.br%2F&tbnid=9fpps9heKSdsMM&vet=12ahUKEwivm-yx6aT0AhUTlZUCHSwaAiwQMygBegUIARDLAQ..i&docid=l4uursrE5fcXFM&w=800&h=700&q=python%20imagem&ved=2ahUKEwivm-yx6aT0AhUTlZUCHSwaAiwQMygBegUIARDLAQ);
+![Python](https%3A%2F%2Fseason-training.s3-sa-east-1.amazonaws.com%2Fimages%2Fblog%2Fblog-17.jpg&imgrefurl=https%3A%2F%2Fwww.season.com.br%2Fblog%2Fmotivospython&tbnid=rusl3Yb4iziH9M&vet=12ahUKEwivm-yx6aT0AhUTlZUCHSwaAiwQMygKegUIARDdAQ..i&docid=n_NrwTe5kcdTTM&w=800&h=600&q=python%20imagem&ved=2ahUKEwivm-yx6aT0AhUTlZUCHSwaAiwQMygKegUIARDdAQ)
