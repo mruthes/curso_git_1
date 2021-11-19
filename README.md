@@ -4,4 +4,4 @@ Vamos criar um **e-commerce**, para empresa X e *bla bla bla*
  Busca, **carrinho**, pagamento e what ever
 
 ###### Melhorias do projeto
-Melhoria na função A e B
+Melhoria na _**função A e B**_
